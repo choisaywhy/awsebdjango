@@ -25,7 +25,7 @@ SECRET_KEY = '7%e+0i3w0w4jpnpb(s*rq^x7i=t3cv*cv&b&gl_kvwa$r)%-xe'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['sehwadjango-dev.ap-northeast-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['*.elasticbeanstalk.com','sehwaenv.eba-itpk9in3.ap-northeast-2.elasticbeanstalk.com']
 
 
 # Application definition
